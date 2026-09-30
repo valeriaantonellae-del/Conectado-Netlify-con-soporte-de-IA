@@ -8,4 +8,4 @@
    * Creamos el usuario en Netlify y el proyecto nace con la suba del archivo index.html
    * Hemos cambiado el nombre generado del proyecto por otro mas acorde a la necesidad de la clase.
   
-Adjunto link para su ecaluacion y valoracion: [[ANALITICA WEB]([https://cheery-snickerdoodle-e3c1ad.netlify.app/](https://enriquez-analisis-financiero.netlify.app/))]
+Adjunto link para su ecaluacion y valoracion: [[ANALITICA WEB][(https://enriquez-analisis-financiero.netlify.app/)]
